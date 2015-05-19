@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		91CB90A21B0AB84F0083E506 /* Bowtie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91CB90A11B0AB84F0083E506 /* Bowtie.swift */; };
 		FEC9FF5C195B66BA00FC7178 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC9FF5B195B66BA00FC7178 /* AppDelegate.swift */; };
 		FEC9FF5F195B66BA00FC7178 /* Bow_Ties.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FEC9FF5D195B66BA00FC7178 /* Bow_Ties.xcdatamodeld */; };
 		FEC9FF61195B66BA00FC7178 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC9FF60195B66BA00FC7178 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		91CB90A11B0AB84F0083E506 /* Bowtie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bowtie.swift; sourceTree = "<group>"; };
 		FEC9FF56195B66BA00FC7178 /* Bow Ties.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bow Ties.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEC9FF5A195B66BA00FC7178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FEC9FF5B195B66BA00FC7178 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		FEC9FF58195B66BA00FC7178 /* Bow Ties */ = {
 			isa = PBXGroup;
 			children = (
+				91CB90A11B0AB84F0083E506 /* Bowtie.swift */,
 				FEC9FF5B195B66BA00FC7178 /* AppDelegate.swift */,
 				FEC9FF60195B66BA00FC7178 /* ViewController.swift */,
 				FEC9FF5A195B66BA00FC7178 /* Info.plist */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEC9FF61195B66BA00FC7178 /* ViewController.swift in Sources */,
+				91CB90A21B0AB84F0083E506 /* Bowtie.swift in Sources */,
 				FEC9FF5C195B66BA00FC7178 /* AppDelegate.swift in Sources */,
 				FEC9FF5F195B66BA00FC7178 /* Bow_Ties.xcdatamodeld in Sources */,
 			);
